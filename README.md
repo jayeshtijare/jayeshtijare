@@ -2,7 +2,7 @@
 
 ### I'm a Student, and Developer!!
 
-- I’m currently learning Machine Learning and Ethical Hacking
+- I’m currently learning C#
 - Goals: Contribute more to Open Source projects
 
 
@@ -19,6 +19,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> Cascading Style Sheets (CSS)
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Javascript Programming Language
+
+<img align="left" alt="JavaScript" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWuA3TdFDiDfej94fWnHdNQJ9H-nb6AcCxA&usqp=CAU" /> Structured Query Language
 <br />
 <br />
 
