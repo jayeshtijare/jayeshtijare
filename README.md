@@ -1,9 +1,9 @@
 ## Hi there, I'm Jayesh👋
 
-### I'm a Student, and Developer!!
+### I'm a Developer!!
 
-- I’m currently learning C#
-- Goals: Contribute more to Open Source projects
+- I’m currently working as a Salesforcce Developer
+- Goals: To be an expert in Machine Learning environment
 
 
 ### Languages I know:
