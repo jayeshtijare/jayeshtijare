@@ -2,7 +2,7 @@
 
 ### I'm a Developer!!
 
-- I’m currently working as a Salesforcce Developer
+- I’m currently working as a Salesforce Developer
 - Goals: To be an expert in Machine Learning environment
 
 
